@@ -1,1 +1,2 @@
-# bgcheck! 2.0
+# bgcheck! 3.0
+# SQLExceptions
