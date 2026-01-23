@@ -1,1 +1,1 @@
-# bgcheck! 5.0
+# bgcheck! 6.0
